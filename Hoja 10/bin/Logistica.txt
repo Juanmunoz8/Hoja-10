@@ -1,0 +1,6 @@
+Guatemala ElSalvador 4 6 8 15
+Guatemala Honduras 7 10 14 25
+ElSalvador Nicaragua 6 9 12 20
+Honduras Nicaragua 5 7 10 18
+Nicaragua CostaRica 3 5 6 10
+CostaRica Panama 4 6 7 12
